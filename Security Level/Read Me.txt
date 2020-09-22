@@ -1,0 +1,20 @@
+**************Macro Security Level For MS Office**************
+
+From 2 years, I made some macros in PowerPoint, and I want my 
+project to be puplic and easy to use, but there was a problem
+I faced, it was the secuirity level which I want it to be low
+to make my project work smoothly, sppecially if we know that 
+Norton antivirus make secuirity to high, so user can't feel
+if there was any macro.
+So I use this program attached, and put it in the startup of
+the CD, so it work directly when put the CD to adjust security
+level to low.  
+You can check its work from Word or powerpoint select tool 
+menu then macro, finally security to check the level, then
+close the program (Don't forget that) and run our program
+and test it like above.
+Note that: I test the program for Office2000 & OfficeXP
+
+
+
+
